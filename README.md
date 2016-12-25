@@ -25,6 +25,15 @@ The graphs are generated using 'matplotlib' library ( http://matplotlib.org/ ) i
 To run the application on your computer, clone the repository onto your computer and execute command "manage.py runserver" in command line (cmd for Windows). Then go to http://127.0.0.1:8000/ on a browser.
 P.S.: Make your current directory as the repository cloned. 
 
+Credentials for demo:
+Faculty:
+> ID: FACSE1234
+> Password: Guest1
+Student:
+> Hallticket: 14h61a0501
+> Batch: 14
+> Section: a
+
 Following are screenshots of the project:
 
 ![screenshot 9](https://cloud.githubusercontent.com/assets/16423060/21471588/1034f012-cadd-11e6-8d56-369fa0c84362.png)
