@@ -22,8 +22,10 @@ For the purpose of demonstration we used a sample database (cse.db) that contain
 
 The graphs are generated using 'matplotlib' library ( http://matplotlib.org/ ) in Python.
 
-To run the application on your computer, clone the repository onto your computer and execute command "manage.py runserver" in command line (cmd for Windows).
+To run the application on your computer, clone the repository onto your computer and execute command "manage.py runserver" in command line (cmd for Windows). Then go to http://127.0.0.1:8000/ on a browser.
 P.S.: Make your current directory as the repository cloned. 
+
+Check 'Demo' for screenshots of the project.
 
 Python version: 2.7.12
 Django version: 1.10.1
