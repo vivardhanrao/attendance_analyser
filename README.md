@@ -3,11 +3,13 @@
 A Django based application that would be used to display the attendance of students along with necessary graphs. 
 
 There are two modules to the application:
-> One for students where they can: 
+
+One for students where they can: 
   > See their aggregate attendance.
   > See a pie chart comparing their attendance in all the subjects.
   > Use two handy metrics, one for calculating future attendance and the other for make up attendance.
-> Other for faculty where they can: 
+
+Other for faculty where they can: 
   > View the attendance of a particular student.
   > View the attendance of a particular subject.
   > View the attendance of a whole class with its respective graph.
